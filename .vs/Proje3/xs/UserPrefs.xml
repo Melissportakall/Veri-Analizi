@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{27FF4FAE-7F79-47D8-8A23-6038DA2A1399}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="41" Column="51" />
+      <File FileName="Kullanici.cs" Line="1" Column="1" />
+      <File FileName="interestGraph.cs" Line="91" Column="19" />
+      <File FileName="KullaniciEkleme.cs" Line="1" Column="1" />
+      <File FileName="olusanhash.cs" Line="1" Column="1" />
+      <File FileName="BolgeVeDil.cs" Line="1" Column="1" />
+      <File FileName="UserGraph.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Proje3" expanded="True">
+            <Node name="Proje3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Proje3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
